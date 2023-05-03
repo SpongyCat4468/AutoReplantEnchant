@@ -1,0 +1,7 @@
+name: AutoReplantEnchant
+version: '${project.version}'
+main: me.spongycat.autoreplantenchant.AutoReplantEnchant
+api-version: 1.19
+load: STARTUP
+authors: [SpongyCat]
+description: Adds an auto replant enchant to the game that can be apply on a hoe.
